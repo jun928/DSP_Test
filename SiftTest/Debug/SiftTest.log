@@ -1,0 +1,9 @@
+﻿  sifttest.c
+c:\projects\sifttest\sifttest\sifttest.c(16): warning C4101: 'type': unreferenced local variable
+c:\projects\sifttest\sifttest\sifttest.c(14): warning C4101: '_data': unreferenced local variable
+c:\projects\sifttest\sifttest\sifttest.c(17): warning C4101: 'i': unreferenced local variable
+c:\projects\sifttest\sifttest\sifttest.c(16): warning C4101: 'ch': unreferenced local variable
+c:\projects\sifttest\sifttest\sifttest.c(39): warning C4013: 'test2' undefined; assuming extern returning int
+c:\projects\sifttest\sifttest\sifttest.c(30): warning C4101: 'data': unreferenced local variable
+  SiftTest.vcxproj -> C:\Projects\SiftTest\Debug\SiftTest.exe
+          1 file(s) copied.
